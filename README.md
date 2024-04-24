@@ -1,4 +1,3 @@
-# Olá, me chamo Guilherme ! 
 ## Bem vindo ao meu perfil GitHub 👋
 
 - 🔭 Atualmente estou trabalhando na Prefeitura de Passos / MG
