@@ -23,11 +23,13 @@
 
 <div>
 <a href="https://github.com/guilhermelvc">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermelvc&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermelvc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
+<div>
 ![Snake animation](https://github.com/guilhermelvc/guilhermelvc/blob/output/github-contribution-grid-snake.svg)
+</div>
 
 ## Contato:
 <div>
