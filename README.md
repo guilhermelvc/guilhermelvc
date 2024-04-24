@@ -17,7 +17,7 @@
             
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" />
 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/datagrip/datagrip-original.svg" width="40" height="40"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" height="40"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" width="40" height="40"/>
 
@@ -28,7 +28,7 @@
 </div>
 
 <div>
-![Snake animation](https://github.com/guilhermelvc/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/guilhermelvc/guilhermelvc/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 ## Contato:
