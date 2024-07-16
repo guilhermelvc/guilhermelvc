@@ -1,6 +1,6 @@
 ## Bem vindo ao meu perfil GitHub 👋
 
-- 🔭 Atualmente estou trabalhando na Prefeitura de Passos / MG
+
 - 🌱 Aprendendo Desenvolvimento WEB 
 - 😄 Graduação em andamento: Bacharel em Sistemas de Informação na UEMG
 - 🤔 Bacharel concluído em Engenharia de Produção na UNIFRAN
