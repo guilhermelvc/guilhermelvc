@@ -1,9 +1,9 @@
 ## Bem vindo ao meu perfil GitHub 👋
 
 - 🔭 Atualmente estou trabalhando na Prefeitura de Passos / MG
-- 🌱 Estou aprendendo Desenvolvimento WEB 
-- 😄 Graduação em andamento em Bacharel em Sistemas de Informação na UEMG
-- 🤔 Bacharel concluído em Engenharia de Produção na UNIFRAN ...
+- 🌱 Aprendendo Desenvolvimento WEB 
+- 😄 Graduação em andamento: Bacharel em Sistemas de Informação na UEMG
+- 🤔 Bacharel concluído em Engenharia de Produção na UNIFRAN
 - 📫 Como entrar em contato comigo: Instagram: @guilherme.lvc
 - ⚡ Curiosidade: ...
 
