@@ -5,7 +5,6 @@
 - 😄 Graduação em andamento: Bacharel em Sistemas de Informação na UEMG
 - 🤔 Bacharel concluído em Engenharia de Produção na UNIFRAN
 - 📫 Como entrar em contato comigo: Instagram: @guilherme.lvc
-- ⚡ Curiosidade: ...
 
 
 ## Ferramentas e Tecnologias em Aprendizado
